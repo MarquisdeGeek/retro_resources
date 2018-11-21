@@ -1,0 +1,62 @@
+var roomnames = [
+"The Off Licence", /* 0*/
+"The Bridge", /* 1*/
+"Under the MegaTree", /* 2*/
+"At the Foot of the MegaTree", /* 3*/
+"The Drive", /* 4*/
+"The Security Guard", /* 5*/
+"Entrance to Hades", /* 6*/
+"Cuckoo's Nest", /* 7*/
+"Inside the MegaTrunk", /* 8*/
+"On a Branch Over the Drive", /* 9*/
+"The Front Door", /* 10*/
+"The Hall", /* 11*/
+"Tree Top", /* 12*/
+"Out on a limb", /* 13*/
+"Rescue Esmerelda", /* 14*/
+"I'm sure I've seen this before..", /* 15*/
+"We must perform a Quirkafleeg", /* 16*/
+"Up on the Battlements", /* 17*/
+"On the Roof", /* 18*/
+"The Forgotten Abbey", /* 19*/
+"Ballroom East", /* 20*/
+"Ballroom West", /* 21*/
+"To the Kitchens Main Stairway", /* 22*/
+"The Kitchen", /* 23*/
+"West of Kitchen", /* 24*/
+"Cold Store", /* 25*/
+"East Wall Base", /* 26*/
+"The Chapel", /* 27*/
+"First Landing", /* 28*/
+"The Nightmare Room", /* 29*/
+"The Banyan Tree", /* 30*/
+"Swimming Pool", /* 31*/
+"Halfway up the East Wall", /* 32*/
+"The Bathroom", /* 33*/
+"Top Landing", /* 34*/
+"Master Bedroom", /* 35*/
+"A bit of tree", /* 36*/
+"Orangery", /* 37*/
+"Priests' Hole", /* 38*/
+"Emergency Generator", /* 39*/
+"Dr Jones will never believe this", /* 40*/
+"The Attic", /* 41*/
+"Under the Roof", /* 42*/
+"Conservatory Roof", /* 43*/
+"On top of the house", /* 44*/
+"Under the Drive", /* 45*/
+"Tree Root", /* 46*/
+"", /* 47*/
+"Nomen Luni", /* 48*/
+"The Wine Cellar", /* 49*/
+"Watch Tower", /* 50*/
+"Tool Shed", /* 51*/
+"Back Stairway", /* 52*/
+"Back Door", /* 53*/
+"West Wing", /* 54*/
+"West Bedroom", /* 55*/
+"West Wing Roof", /* 56*/
+"Above the West Bedroom", /* 57*/
+"The Beach", /* 58*/
+"The Yacht", /* 59*/
+];
